@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=tab_navigation
+IAge=3
+Name=Tab Nagigation
+Description=Navigate through your tabs easily. <Ctrl>Tab or <Ctrl><Shift>Tab
+Authors=Diego Guimaraes <diego.sistemas@yahoo.com.br>
+Copyright=Copyright © 2012 Diego Guimaraes <diego.sistemas@yahoo.com.br>
+website=https://github.com/diegoguimaraes/gedit-tab-navigation
